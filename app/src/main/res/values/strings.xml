@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="full_name">full_name</string>
+    <string name="location">location</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="company">company</string>
+    <string name="repos">Repos</string>
+    <string name="username">username</string>
+    <string name="value">-</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="settings">Settings</string>
+    <string name="github_logo">GitHub Logo</string>
+    <string name="bangkit_logo">Bangkit Logo</string>
+    <string name="kampus_merdeka_logo">Kampus Merdeka Logo</string>
+</resources>
